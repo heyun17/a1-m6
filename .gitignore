@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+
+# 로컬 DB 및 결과물
+*.db
+*.sqlite
+results.json
+
+# 비밀값
+.env
+.env.*
+*.kubeconfig
